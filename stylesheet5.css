@@ -1,0 +1,48 @@
+.peasoup {float:left;}
+.teal {float:left;clear:both;}
+.white {float:right;
+}
+.babygreen {float:right;}
+.pink {float:left;}
+.powder {float:left;
+}
+#menu {float:left;}
+h1 {margin:2rem;}
+h2 {margin:2rem;}
+
+#menu {margin: .5rem;}
+#cleese {margin: 2rem;}
+#cheeses {margin:3rem 5rem 3rem 2rem;
+          font-size: 1.6rem;
+          color: white;     
+}
+#headline {margin: 2.8rem 1.3rem 2.2rem 10rem;
+           font-size: 1.6rem;
+           color: white;    
+}
+#footerlogos {float:right; margin:2rem;}
+#monty {margin: 4rem;}
+
+header li
+{
+        display: inline-block;
+        padding: 1rem 2rem;
+        background-color: white;
+        
+}
+p {
+    text-indent: 50px;
+}
+    
+footer i 
+{
+        display: inline-block;
+        padding: 0rem .15rem;
+        background-color: pink;
+        float: left;
+}
+        
+
+/*Ye Bonyard*/
+
+/*.yellow {float:left;}

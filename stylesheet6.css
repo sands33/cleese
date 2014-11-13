@@ -1,0 +1,40 @@
+* {margin: 0;
+   padding: 0;}
+
+.peasoup { background-color: hsla(88, 99%, 71%, 0.96);
+        width: 97%;
+        height: 12rem;
+        margin: 1rem;}
+        
+.yellow { background-color: yellow;
+        width: 97%;
+        height: 4rem;
+        margin-left: 1rem;}
+
+.teal { background-color: hsla(171, 99%, 69%, 0.96);
+        width: 24%;
+        height: 32rem;
+        margin: 1rem;}
+
+.babygreen { background-color: hsla(53, 99%, 71%, 0.96);
+        width: 70%;
+        height: 7rem;
+        margin: 1rem;}
+
+.white { background-color: white;
+        width: 65%;
+        height: 33rem;
+        margin: 1rem;}
+
+.pink { background-color: pink;
+        width: 97%;
+        height: 4rem;
+        margin: 1rem 5rem 1rem 1rem;}
+
+.powder { background-color: hsla(200, 99%, 71%, 0.96);
+        width: 24%;
+        height: 8rem;
+        margin: 1rem}
+
+
+
