@@ -7,12 +7,12 @@
         margin: 1rem;}
         
 .yellow { background-color: yellow;
-        width: 97%;
+        max-width: 70%;
         height: 4rem;
         margin-left: 1rem;}
 
 .teal { background-color: hsla(171, 99%, 69%, 0.96);
-        width: 24%;
+        width: 20%;
         height: 32rem;
         margin: 1rem;}
 
@@ -32,9 +32,13 @@
         margin: 1rem 5rem 1rem 1rem;}
 
 .powder { background-color: hsla(200, 99%, 71%, 0.96);
-        width: 24%;
+        width: 20%;
         height: 8rem;
         margin: 1rem}
 
+
+/*this here stylesheet6.css defines the size and margin of the colored blocks, but stylesheet5.css defines the relative location, font, indentation, padding and content of the blocks of /cleese/index.html.*/
+
+/*Ye Bonyard*/
 
 

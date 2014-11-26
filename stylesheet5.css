@@ -1,18 +1,29 @@
-.peasoup {float:left;}
-.teal {float:left;clear:both;}
+.peasoup {float:left;
+}
+.teal {float:left;
+}
+.yellow {float:left;}
 .white {float:right;
 }
-.babygreen {float:right;}
-.pink {float:left;}
+.babygreen {float:right;
+}
+.pink {float:left;
+}
 .powder {float:left;
 }
-#menu {float:left;}
-h1 {margin:2rem;}
-h2 {margin:2rem;}
-
-#menu {margin: .5rem;}
-#cleese {margin: 2rem;}
-#cheeses {margin:3rem 5rem 3rem 2rem;
+.menu {float:left;
+       display: inline-block;
+       margin: 0rem 1rem 0rem 1rem;   
+       padding: 0rem 0rem 0rem 3rem;
+       background-color: white;
+}
+h1 {margin:2rem;
+}
+h2 {margin:2rem;
+}
+#cleese {margin: 2rem;
+}
+.cheeses {margin:3rem 5rem 3rem 2rem;
           font-size: 1.6rem;
           color: white;     
 }
@@ -20,23 +31,18 @@ h2 {margin:2rem;}
            font-size: 1.6rem;
            color: white;    
 }
-#footerlogos {float:right; margin:2rem;}
-#monty {margin: 4rem;}
+#footerlogos {float:right; margin:2rem;padding-right: 20%;
+}
+#monty {margin: 4rem 4rem 4rem 0rem;
+}
+p {text-indent: 50px;
+}
+.questions {margin:1rem;
+            font-size: .75rem;
+            color: gold;
+}
 
-header li
-{
-        display: inline-block;
-        padding: 1rem 2rem;
-        background-color: white;
-        
-}
-p {
-    text-indent: 50px;
-}
-    
-footer i 
-{
-        display: inline-block;
+footer i {display: inline-block;
         padding: 0rem .15rem;
         background-color: pink;
         float: left;
